@@ -1,0 +1,1 @@
+pyinstaller --name="Processador de Lista de Presença" --onefile --windowed --noconsole --add-data "sobreposicao.png:." --icon=sobreposicao.png --clean main.py
